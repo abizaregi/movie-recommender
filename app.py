@@ -1,7 +1,6 @@
 import pickle
 import streamlit as st
 import requests
-from sympy import python
 
 
 def fetch_poster(movie_id):
