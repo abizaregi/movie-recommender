@@ -104,10 +104,8 @@ st.code(
         this_app.created_by:
             for i in kelompok_18:
                 i[0] = 'Abizar Egi Mahendra'
-                i[1] = 'Your name'
-                i[2] = 'Your name'
-                i[3] = 'Your name'
-                i[4] = 'Your name'
+                i[1] = 'Abrinto Martin Silaen'
+                i[2] = 'Ahmadi Ahmar Ar Rayyan'
             print('Final Project for Python DTS KOMINFO')
         return thank_you
     ''', language=python
